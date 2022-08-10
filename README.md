@@ -22,10 +22,13 @@
 ![](doggy_mix2.png)
 
 ## 8.
-![](ntnulib.jpg)
+![](Compare.png)
 
 ## 9.
-![](room_reshaped.png)
+![](ntnulib.jpg)
 
 ## 10.
+![](room_reshaped.png)
+
+## 11.
 ![](ddc.jpg)
