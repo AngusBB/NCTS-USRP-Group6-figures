@@ -22,7 +22,7 @@
 ![](doggy_mix2.png)
 
 ## 8.
-![](ntnulib.jpg)
+![](ddc.jpg)
 
 ## 9.
-![](ddc.jpg)
+![](ntnulib.jpg)
