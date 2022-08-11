@@ -25,7 +25,4 @@
 ![](ntnulib.jpg)
 
 ## 9.
-![](room_reshaped.png)
-
-## 10.
 ![](ddc.jpg)
